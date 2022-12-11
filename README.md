@@ -1,4 +1,3 @@
-# IOT-COMPUTER-VISION-TASK-2
 ### COLOR DETECTION in Images<br><br>
 Follow below step to run this repositry.<br><br>
 
